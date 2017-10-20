@@ -39,7 +39,7 @@ function placeSelected(place) {
             $('#description').empty();
 
             jQuery.each(channel.item.forecast, function(idx, f) {
-                console.log(f);
+                // console.log(f);
                 var c = $('#weatherTemplate').clone();
                 c.find('.weather_date').text(f.date);
                 c.find('.weather_temp_min').text(f.low + u);
@@ -51,6 +51,9 @@ function placeSelected(place) {
 
 
                 c.appendTo('#description');
+                if (idx >= 2) {
+                    return false;
+                }
             });
         }
     }
