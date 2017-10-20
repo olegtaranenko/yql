@@ -1,1 +1,89 @@
-{"query":{"count":1,"created":"2017-10-20T12:05:21Z","lang":"en-US","results":{"channel":{"units":{"distance":"km","pressure":"mb","speed":"km/h","temperature":"C"},"title":"Yahoo! Weather - Cologne, NW, DE","link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/","description":"Yahoo! Weather for Cologne, NW, DE","language":"en-us","lastBuildDate":"Fri, 20 Oct 2017 02:05 PM CEST","ttl":"60","location":{"city":"Cologne","country":"Germany","region":" NW"},"wind":{"chill":"61","direction":"225","speed":"28.97"},"atmosphere":{"humidity":"55","pressure":"33965.49","rising":"0","visibility":"25.91"},"astronomy":{"sunrise":"8:5 am","sunset":"6:28 pm"},"image":{"title":"Yahoo! Weather","width":"142","height":"18","link":"http://weather.yahoo.com","url":"http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"},"item":{"title":"Conditions for Cologne, NW, DE at 01:00 PM CEST","lat":"50.941662","long":"6.95518","link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/","pubDate":"Fri, 20 Oct 2017 01:00 PM CEST","condition":{"code":"30","date":"Fri, 20 Oct 2017 01:00 PM CEST","temp":"16","text":"Partly Cloudy"},"forecast":[{"code":"12","date":"20 Oct 2017","day":"Fri","high":"18","low":"12","text":"Rain"},{"code":"11","date":"21 Oct 2017","day":"Sat","high":"16","low":"11","text":"Showers"},{"code":"39","date":"22 Oct 2017","day":"Sun","high":"12","low":"10","text":"Scattered Showers"},{"code":"28","date":"23 Oct 2017","day":"Mon","high":"13","low":"9","text":"Mostly Cloudy"},{"code":"39","date":"24 Oct 2017","day":"Tue","high":"16","low":"11","text":"Scattered Showers"},{"code":"28","date":"25 Oct 2017","day":"Wed","high":"17","low":"11","text":"Mostly Cloudy"},{"code":"28","date":"26 Oct 2017","day":"Thu","high":"17","low":"10","text":"Mostly Cloudy"},{"code":"28","date":"27 Oct 2017","day":"Fri","high":"17","low":"9","text":"Mostly Cloudy"},{"code":"28","date":"28 Oct 2017","day":"Sat","high":"15","low":"10","text":"Mostly Cloudy"},{"code":"28","date":"29 Oct 2017","day":"Sun","high":"14","low":"10","text":"Mostly Cloudy"}],"description":"<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/30.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Partly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Fri - Rain. High: 18Low: 12\n<BR /> Sat - Showers. High: 16Low: 11\n<BR /> Sun - Scattered Showers. High: 12Low: 10\n<BR /> Mon - Mostly Cloudy. High: 13Low: 9\n<BR /> Tue - Scattered Showers. High: 16Low: 11\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>","guid":{"isPermaLink":"false"}}}}}}
+{
+    "query": {
+        "count": 1,
+        "created": "2017-10-20T12:05:21Z",
+        "lang": "en-US",
+        "results": {
+            "channel": {
+                "units": {
+                    "distance": "km",
+                    "pressure": "mb",
+                    "speed": "km/h",
+                    "temperature": "C"
+                },
+                "title": "Yahoo! Weather - Cologne, NW, DE",
+                "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/",
+                "description": "Yahoo! Weather for Cologne, NW, DE",
+                "language": "en-us",
+                "lastBuildDate": "Fri, 20 Oct 2017 02:05 PM CEST",
+                "ttl": "60",
+                "location": {
+                    "city": "Cologne",
+                    "country": "Germany",
+                    "region": " NW"
+                },
+                "wind": {
+                    "chill": "61",
+                    "direction": "225",
+                    "speed": "28.97"
+                },
+                "atmosphere": {
+                    "humidity": "55",
+                    "pressure": "33965.49",
+                    "rising": "0",
+                    "visibility": "25.91"
+                },
+                "astronomy": {
+                    "sunrise": "8:5 am",
+                    "sunset": "6:28 pm"
+                },
+                "image": {
+                    "title": "Yahoo! Weather",
+                    "width": "142",
+                    "height": "18",
+                    "link": "http://weather.yahoo.com",
+                    "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+                },
+                "item": {
+                    "title": "Conditions for Cologne, NW, DE at 01:00 PM CEST",
+                    "lat": "50.941662",
+                    "long": "6.95518",
+                    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/",
+                    "pubDate": "Fri, 20 Oct 2017 01:00 PM CEST",
+                    "condition": {
+                        "code": "30",
+                        "date": "Fri, 20 Oct 2017 01:00 PM CEST",
+                        "temp": "16",
+                        "text": "Partly Cloudy"
+                    },
+                    "forecast": [{
+                        "code": "12",
+                        "date": "20 Oct 2017",
+                        "day": "Fri",
+                        "high": "18",
+                        "low": "12",
+                        "text": "Rain"
+                    }, {
+                        "code": "11",
+                        "date": "21 Oct 2017",
+                        "day": "Sat",
+                        "high": "16",
+                        "low": "11",
+                        "text": "Showers"
+                    }, {
+                        "code": "39",
+                        "date": "22 Oct 2017",
+                        "day": "Sun",
+                        "high": "12",
+                        "low": "10",
+                        "text": "Scattered Showers"
+                    }],
+                    "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/30.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Partly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Fri - Rain. High: 18Low: 12\n<BR /> Sat - Showers. High: 16Low: 11\n<BR /> Sun - Scattered Showers. High: 12Low: 10\n<BR /> Mon - Mostly Cloudy. High: 13Low: 9\n<BR /> Tue - Scattered Showers. High: 16Low: 11\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-667931/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+                    "guid": {
+                        "isPermaLink": "false"
+                    }
+                }
+            }
+        }
+    }
+}

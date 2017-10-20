@@ -295,10 +295,16 @@ textarea {
     /*vertical-align: middle;*/
 }
 
-.weather {
-    /*text-align: center;*/
+.weatherOuter {
     position:absolute;
     top:50%;
     left:50%;
     transform:translate(-50%,-50%);
 }
+
+.weather { display: none; margin: 1em; border: 2px solid black; width: 120px; text-align: center; border-radius: 4px; }
+.weather_date { background-color: #000; color: #fff; height: 1.2em; padding: 0.1em; }
+.weather_temp { display: table; width:100%; height: 1.2em; border-bottom: 1px solid black; }
+.weather_temp_min { display: table-cell; background-color: #efe; width: 50%; padding: 0.1em; }
+.weather_temp_max { display: table-cell; background-color: #fee; width: 50%; padding: 0.1em; }
+.weather_text { font-size: 80%; color: #999; padding: 0.5em; }

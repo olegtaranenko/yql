@@ -1,0 +1,55 @@
+{
+    "query": {
+        "count": 3,
+        "created": "2017-10-20T13:51:55Z",
+        "lang": "en-US",
+        "results": {
+            "channel": [{
+                "title": "Yahoo! Weather - Duesseldorf, NW, DE",
+                "item": {
+                    "forecast": {
+                        "code": "12",
+                        "date": "20 Oct 2017",
+                        "day": "Fri",
+                        "high": "17",
+                        "low": "12",
+                        "text": "Rain"
+                    }
+                },
+                "units": {
+                    "temperature": "C"
+                }
+            }, {
+                "title": "Yahoo! Weather - Duesseldorf, NW, DE",
+                "item": {
+                    "forecast": {
+                        "code": "39",
+                        "date": "21 Oct 2017",
+                        "day": "Sat",
+                        "high": "16",
+                        "low": "11",
+                        "text": "Scattered Showers"
+                    }
+                },
+                "units": {
+                    "temperature": "C"
+                }
+            }, {
+                "title": "Yahoo! Weather - Duesseldorf, NW, DE",
+                "item": {
+                    "forecast": {
+                        "code": "39",
+                        "date": "22 Oct 2017",
+                        "day": "Sun",
+                        "high": "12",
+                        "low": "10",
+                        "text": "Scattered Showers"
+                    }
+                },
+                "units": {
+                    "temperature": "C"
+                }
+            }]
+        }
+    }
+}

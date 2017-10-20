@@ -20,7 +20,7 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div class="weather">
+        <div class="weatherOuter" id="weatherOuter">
             <div class="standort">
                 <label for="standort">Standort</label>
                 <select style="width: 300px" id="standort">
@@ -36,5 +36,15 @@
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
+        <!-- Used as a template -->
+        <div id="weatherTemplate" class="weather">
+            <div class="weather_date">DATE</div>
+            <div class="weather_temp">
+                <div class="weather_temp_min">MIN</div>
+                <div class="weather_temp_max">MAX</div>
+            </div>
+            <img class="weather_icon">
+            <div class="weather_text"></div>
+        </div>
     </body>
 </html>
